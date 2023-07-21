@@ -1,0 +1,40 @@
+.form-control {
+    background-color: antiquewhite;
+}
+
+#two {
+    border: 5px solid antiquewhite;
+}
+
+#three {
+    background-color: #343a40;
+    border: greenyellow;
+
+}
+
+#four {
+    background-color: #343a40;
+    border: greenyellow;
+
+
+
+}
+#five{
+    background-color: #343a40;
+    border: greenyellow;
+
+
+}
+#six{
+    background-color: #343a40;
+    border: greenyellow;
+
+}
+#buttonContainer{
+    display: flex;
+    justify-content: space-evenly;
+}
+#HomeandAbout{
+    display:flex;
+
+}
